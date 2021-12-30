@@ -10,7 +10,7 @@ The major drawback with the app is the lack of persistent state or local storage
 
 ------
 
-<img src="https://github.com/charsterekt/movere-todo/blob/main/screenshots/main.png" alt="main" height="2778" width="1284" />
-<img src="https://github.com/charsterekt/movere-todo/blob/main/screenshots/menu.png" alt="menu" height="2778" width="1284" />
-<img src="https://github.com/charsterekt/movere-todo/blob/main/screenshots/about.png" alt="about" height="2778" width="1284" />
+<img src="https://github.com/charsterekt/movere-todo/blob/main/screenshots/home.png" alt="home" height="277.8" width="128.4" />
+<img src="https://github.com/charsterekt/movere-todo/blob/main/screenshots/menu.png" alt="menu" height="277.8" width="128.4" />
+<img src="https://github.com/charsterekt/movere-todo/blob/main/screenshots/about.png" alt="about" height="277.8" width="128.4" />
 
