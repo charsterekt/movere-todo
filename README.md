@@ -6,5 +6,11 @@
 
 ## Drawbacks: <br>
 
-The major drawback with the app is the lack of persistent state or local storage. This means all your existing tasks are replaced when you close and relaunch the app. This is a feature left open for future improvement.
+The major drawback with the app is the lack of persistent state or local storage. This means all your existing tasks are replaced when you close and relaunch the app. This is a feature left open for future improvement. <br>
+
+------
+
+<img src="https://github.com/charsterekt/movere-todo/blob/main/screenshots/main.png" alt="main" height="2778" width="1284" />
+<img src="https://github.com/charsterekt/movere-todo/blob/main/screenshots/menu.png" alt="menu" height="2778" width="1284" />
+<img src="https://github.com/charsterekt/movere-todo/blob/main/screenshots/about.png" alt="about" height="2778" width="1284" />
 
